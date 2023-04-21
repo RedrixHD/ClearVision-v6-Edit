@@ -12,12 +12,12 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #C91A2E;
+  --main-color: #E3263C;
   --hover-color: #851724;
-  --success-color: #43b581;
+  --success-color: #17C74A;
   --danger-color: #FF0000;
   --url-color: var(--main-color);
-  --background-image: url('https://i.imgur.com/ILxhwNT.jpg');
+  --background-image: url('https://i.imgur.com/7SKziXy.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -28,8 +28,8 @@
   --background-saturation: 112%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 0px;
-  --background-overlay: rgba(0,0,0,0.6);
+  --background-blur: 2px;
+  --background-overlay: rgb(0,0,0,0.6);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -41,7 +41,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-image: url('https://i.imgur.com/EyAvBA2.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
