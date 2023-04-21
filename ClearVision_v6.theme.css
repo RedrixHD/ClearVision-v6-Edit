@@ -28,7 +28,7 @@
   --background-saturation: 112%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 2px;
+  --background-blur: 0px;
   --background-overlay: rgb(0,0,0,0.6);
   --user-popout-image: url('https://i.imgur.com/6O28Rvw.jpg');
   --user-popout-position: center;
